@@ -1,5 +1,5 @@
 
-# 👋🏻 Hey, I’m Niru! Big on data, easy on vibes – glad you stopped by ;)
+# 👋🏻 Hey, I’m Niru! Big on data, easy on vibes ;)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirupama-laishram-a14179221/) 
