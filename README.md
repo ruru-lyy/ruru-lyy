@@ -3,7 +3,10 @@
 
 🤓 I am a **Data Analytics Master's student at CHRIST University**, Bangalore, with a strong passion in developing <u>data engineering and BI analytics projects</u>.
 
-With a knack for curiosity and a drive to uncover insights, I have gained hands-on experience in diverse roles that have shaped my analytical and problem-solving abilities. As a **Marketing Analyst Intern**, I honed essential skills such as web scraping to aid in efficient lead generation, mastering data collection and processing techniques to drive actionable results. Additionally, as a **PPC Account Manager** at an AI-based SaaS startup, I managed advertising campaigns for Amazon seller clients, where I developed a deep understanding of campaign optimization, budget allocation strategies, and leveraging data analytics to maximize ROI. 
+With a knack for curiosity and a drive to uncover insights, I have gained hands-on experience in diverse roles that have shaped my analytical and problem-solving abilities. 
+
+- As a **Marketing Analyst Intern**, I honed essential skills such as web scraping to aid in efficient lead generation, mastering data collection and processing techniques to drive actionable results.
+- Additionally, as a **PPC Account Manager** at an AI-based SaaS startup, I managed advertising campaigns for Amazon seller clients, where I developed a deep understanding of campaign optimization, budget allocation strategies, and leveraging data analytics to maximize ROI. 
 
 These experiences have strengthened my foundation in data-driven decision-making and prepared me to tackle challenges in dynamic, fast-paced environments. I am looking to design and implement quick- automated, optimized solutions that address complex business challenges, delivering measurable value to clients and aligning seamlessly with organizational needs.
 
