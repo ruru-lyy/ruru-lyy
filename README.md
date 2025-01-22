@@ -1,5 +1,5 @@
 
-# 👋🏻 Hey, I’m Niru! Big on data, easy on vibes ;)
+# 👋🏻 Hey, I’m Niru! Big on data, easy on vibes :)
 
 🤓 I am a **Data Analytics Master's student at CHRIST University**, Bangalore, with a strong passion in developing <u>data engineering and BI analytics projects</u>.
 
